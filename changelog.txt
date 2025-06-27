@@ -1,0 +1,2 @@
+:: Version 1.0.0 (Jul 10, 2024)
+- Initial Release
